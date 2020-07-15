@@ -1,0 +1,42 @@
+{
+  "name": "ucf-webapp",
+  "version": "1.1.7",
+  "description": "开发思路：[大型企业应用在前端微应用视角下的思考](https://github.com/iuap-design/blog/issues/306)",
+  "main": "index.js",
+  "scripts": {
+    "start": "ucf-scripts start --homepage=singletable-query",
+    "build": "ucf-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuap-design/ucf-webapp.git"
+  },
+  "author": "Yonyou FED",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iuap-design/ucf-webapp/issues"
+  },
+  "homepage": "https://[username].github.io/ucf-webapp",
+  "devDependencies": {
+    "ucf-scripts": "^1.2.7",
+    "copy-webpack-plugin": "^5.0.3"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.0",
+    "@babel/runtime": "^7.4.0",
+    "bee-complex-grid": "^2.0.15",
+    "bee-search-panel": "2.0.13",
+    "bee-locale": "0.0.14",
+    "bee-table": "^2.0.24",
+    "tinper-bee": "^2.0.10",
+    "classnames": "^2.2.6",
+    "mirrorx": "^0.2.13",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-intl": "^2.8.0",
+    "clone-deep": "4.0.1",
+    "pap-refer": "1.0.6",
+    "ref-multiple-table": "2.0.4"
+  }
+}
