@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/iuap-design/ucf-webapp/issues"
   },
-  "homepage": "https://yangchch6.github.io/ucf-webapp",
+  "homepage": "https://yangchch6.github.io/github-actions-demo/",
   "devDependencies": {
     "ucf-scripts": "^1.2.7",
     "copy-webpack-plugin": "^5.0.3"
