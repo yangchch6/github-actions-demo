@@ -55,6 +55,7 @@ jobs:
 ### 触发 Actions
 保存上面的文件后，将整个仓库推送到 GitHub。
 GitHub 发现了 workflow 文件以后，就会自动运行。可以在仓库的 Actions 页面查看部署情况。
+
 ![image](https://user-images.githubusercontent.com/33412781/87534028-149fd780-c6c8-11ea-85a4-68557e885fb3.png)
 
 等到 workflow 运行结束，访问 [GitHub Page](https://yangchch6.github.io/github-actions-demo/)，会看到构建成果已经发上网了。
